@@ -1,0 +1,38 @@
+.Feed-container{
+    display: flex;
+}
+
+.Feed{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.Feed img{
+    border: 5px solid #1d5e84;
+    width: 100%;
+    border-radius: 12px;
+}
+
+.Feed-controls{
+    display: flex;
+    justify-content: center;
+}
+
+.toggle-btn{
+    font-size: 15px;
+    align-content: center;
+    background-color: #f6943b;
+    color: white;
+    border: none;
+    padding: 8px 17px;
+    margin: 0 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.2s ease; 
+}
+
+.toggle-btn:hover{
+    color:white;
+    background-color: #033f63;
+}

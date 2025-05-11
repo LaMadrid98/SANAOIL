@@ -1,0 +1,20 @@
+.Pump-control{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Propeller{
+    font-size: 50px;
+    padding: 15px;
+    margin: 5px;
+    justify-content: center;
+}
+
+.Frwd{
+    padding: 15px 27px;
+}
+
+.Lft-Rgt{
+    margin: 5px 20px;
+}

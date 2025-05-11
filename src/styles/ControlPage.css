@@ -1,0 +1,69 @@
+.Page-header{
+  margin-top: 20px;
+}
+
+.Page-header h2{
+  color: #f6943b;
+  padding-left: 25px;
+  margin-bottom: 0;
+}
+
+.Link-hm{
+  text-decoration: none;
+  color: #033f63;
+  padding-left: 25px;
+}
+
+.Link-hm:hover{
+  color: #737373;
+}
+
+.Main-info{
+  display: flex;
+  flex-direction: row;
+}
+
+.Info-messages{
+  width: 50%;
+  padding: 20px;
+  padding-right: 10px;
+  padding-bottom: 0;
+}
+
+.Info-level{
+  width: 45%;
+  padding: 20px;
+  padding-left: 10px;
+  padding-bottom: 0;
+}
+
+.Feed-control{
+  padding: 20px;
+  padding-top: 0;
+}
+
+.Control-container{
+  display: flex;
+  flex-direction: column;    
+}
+
+@media (min-width: 768px){
+  .Control-container{
+      flex-direction: row;
+  }
+  .Feed-container{
+      display: flex;
+      justify-content: center;
+  }
+  .Feed img{
+      width: 100%;
+      height: 400px;
+  }
+  .Main-info{
+      flex: 5;
+  }
+  .Feed-control{
+      flex: 5;
+      padding-top: 20px;
+  }
+}

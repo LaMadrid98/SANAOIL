@@ -1,0 +1,71 @@
+nav{
+    background-color: #f6943b;
+    position: sticky;
+    top: 0;
+    font-family: Verdana, sans-serif;
+    padding: 13px 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    box-shadow: 0 9px 15px -6px rgba(0,0,0,0.30);
+}
+
+.Row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;    
+}
+
+.Nav-logo img{
+    width: 35px;
+    height: 35px;
+    padding: 3px;
+    border-radius: 30%;
+    background-color: white;
+    margin-right: 10px;
+}
+
+.Nav-name{
+    align-self: center;
+    font-weight: 1000;
+    font-size: 22px;  
+}
+
+.sana{
+    color: #033f63;
+}
+
+.oil{
+    color:#e15514;
+}
+
+.dot{
+    color: black;
+}
+
+.io{
+    color: #737373;
+}
+
+.Nav-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Nav-btn{
+    align-self: center;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    background-color: #033f63;
+    padding: 8px 15px;
+    border-radius: 10px;
+    margin-left: 10px;
+    transition: 0.2s ease;
+}
+
+.Nav-btn:hover {
+    color:#033f63;
+    background-color: white;
+}
