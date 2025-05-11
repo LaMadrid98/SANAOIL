@@ -1,0 +1,32 @@
+1. Open the XAMPP and run the APACHE AND SQL
+
+2. IMPORT the oil_detection_db.sql
+
+3.  You need to change the following IP: (Always noted this sign "# [NEED TO BE CHANGED!!!!]" if it have this change the following)
+	
+	-database.py
+	-detection.py
+	-routes.py
+	-main.py
+
+	-BeltStatus.js
+	-ConveyorBelt.js
+	-DetectionHistory.js
+	-FeedCam.js
+	-OilDetection.js
+	-OilLevel.js
+	-PropellerControl.js
+	-PumpMotor.js
+
+4. It is important to run first the ESP32 code in your ESP32 to get their IP
+
+5. Once you are finished open the terminal and type "npm start"
+
+6. Enjoy <: <3
+
+CREATOR:
+-Joaquin Apuada
+-Faith Eluna
+-Ray De Mesa
+-Lance La Madrid
+-Sarah Villaplaza
