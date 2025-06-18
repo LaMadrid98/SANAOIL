@@ -17,11 +17,11 @@
 
 
 - **Recover spilled oil** using a belt skimming mechanism with up to 92% recovery efficiency.
-![Screenshot (21)](https://github.com/user-attachments/assets/bc3b1d0e-18ad-49c0-989c-e6d3ffa35950)
+<img width="1128" alt="Screenshot 2025-06-18 095951" src="https://github.com/user-attachments/assets/b19b68ac-a408-47ad-85e5-3cd5078e6c2b" />
 
 
 - Enable **autonomous navigation** in various water conditions.
-![Screenshot (21)](https://github.com/user-attachments/assets/ef65b879-7c00-440a-929c-8f64abd2fd92)
+![Screenshot (21)](https://github.com/user-attachments/assets/bc3b1d0e-18ad-49c0-989c-e6d3ffa35950)
 
 - Support **sustainable environmental goals** through SDG 1, 8, 13, and 14.
 
