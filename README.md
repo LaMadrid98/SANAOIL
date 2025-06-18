@@ -84,16 +84,6 @@ This project supports:
 
 ---
 
-## 👨‍💻 Team Members
-
-**BS Computer Engineering 4-2 - Group 5**  
-- Apuada  
-- De Mesa  
-- Eluna  
-- La Madrid  
-- Villaplaza
-
----
 
 ## 📍 Institution
 
