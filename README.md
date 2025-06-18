@@ -1,4 +1,4 @@
-# SANAOil: Computer Vision-Based Watercraft for Oil Spill Assistance
+![SANAOil - CpE Research Colloquium](https://github.com/user-attachments/assets/2c98b0d0-27f4-4000-a9e3-921322380bc6)
 
 ## 🛥️ Project Overview
 
@@ -13,8 +13,14 @@
 ## 🎯 Objectives
 
 - **Detect oil spills** with ~90% precision using real-time computer vision.
+![Screenshot (17)](https://github.com/user-attachments/assets/54b66bcd-b298-4877-a0b5-d441195692cb)
+
 - **Recover spilled oil** using a belt skimming mechanism with up to 92% recovery efficiency.
+![Screenshot 2025-06-18 095948](https://github.com/user-attachments/assets/e6f74626-8b1a-463f-9db2-b61cdbbb901b)
+
 - Enable **autonomous navigation** in various water conditions.
+![Screenshot (21)](https://github.com/user-attachments/assets/ef65b879-7c00-440a-929c-8f64abd2fd92)
+
 - Support **sustainable environmental goals** through SDG 1, 8, 13, and 14.
 
 ---
@@ -25,6 +31,9 @@
 - **Mechanical watercraft with belt skimmer** for physical oil recovery
 - **Autonomous navigation** with ISO-compliant safety and system checks
 - **Stable field testing** in various water environments (e.g., rivers and lakes)
+
+  ![1_R84n-IsnUKm-nD5D7_X-BQ](https://github.com/user-attachments/assets/a993cc02-b627-40e0-b65f-9892870db3f6) ![Logo_von_Espressif](https://github.com/user-attachments/assets/b03515d8-2127-4725-a4a8-815c7aef0853) ![Raspberry_Pi_logo](https://github.com/user-attachments/assets/f64f9041-be00-446c-aaf4-496a6aa0a07d) 
+
 
 ---
 
