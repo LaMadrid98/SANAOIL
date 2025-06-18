@@ -34,6 +34,7 @@
 - **Autonomous navigation** with ISO-compliant safety and system checks
 - **Stable field testing** in various water environments (e.g., rivers and lakes)
 
+![Untitled_design-removebg-preview](https://github.com/user-attachments/assets/cb2ce85f-def2-4349-97a2-d7f51218fbc1)
 
 ---
 
